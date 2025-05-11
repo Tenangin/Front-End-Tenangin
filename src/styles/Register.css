@@ -1,0 +1,40 @@
+.register-container {
+  height: 100vh;
+}
+
+.register-left {
+  background-color: #DBE6FE;
+  width: 50%;
+  position: relative;
+  padding: 2rem;
+}
+
+.flowers-top,
+.flowers-bottom {
+  width: 100%;
+  max-width: 540px;
+  justify-content: center;
+  align-items: center;
+}
+
+.flowers-top {
+  align-self: flex-start;
+}
+
+.flowers-bottom {
+  align-self: flex-end;
+}
+
+
+.register-right {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.register-form-container {
+  width: 100%;
+  max-width: 400px;
+}

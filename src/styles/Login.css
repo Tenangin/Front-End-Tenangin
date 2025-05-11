@@ -1,0 +1,27 @@
+.login-container {
+  height: 100vh;
+}
+
+.login-left {
+  width: 50%;
+  background-color: #ffffff;
+}
+
+.login-right {
+  background-color: #DBE6FE;
+  width: 50%;
+  height: 100%;
+  padding: 2rem;
+}
+
+.flowers-top,
+.flowers-bottom {
+  width: 100%;
+  max-width: 400px;
+}
+
+.logo-brain {
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+}
